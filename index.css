@@ -1,0 +1,127 @@
+.h1 { 
+    background: -webkit-linear-gradient(green,cyan,yellow,blue,magenta);
+    font-size: 19px;
+    font-style: italic;
+    padding:20x 20px 20px 20px;
+    margin:0 auto;
+    border:none;
+    border-radius:5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:yellow;
+    animation-name:joshua;
+    animation-duration:10s;
+    animation-iteration-count:infinite;
+   -webkit-animation-duration:10s;
+   -webkit-animation-name:joshua;
+}
+@keyframes joshua {
+    from {width: 200px;}
+    to {width: 800px;}
+    }
+@-webkit-keyframes joshua {
+    from {width: 200px;}
+    to {width: 800px}
+}
+.p1 {
+    color: blue;
+   text-decoration: double; 
+   background-color: blueviolet;
+   margin:0 auto;
+   border-radius: 20px;
+   padding:20px 20px 20px 20px;
+   text-transform: capitalize;
+   font-size: x-large;
+   font-weight: 100;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   animation-name:joshua;
+   animation-duration:10s;
+   animation-iteration-count:infinite;
+  -webkit-animation-duration:10s;
+  -webkit-animation-name:joshua;
+  @keyframes joshua {
+    from {width: 200px;}
+    to {width: 800px;}
+    }
+@-webkit-keyframes joshua {
+    from {width: 200px;}
+    to {width: 800px}
+}
+}
+.p2 {
+    text-align:center;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    background-color: aqua;
+    border:none;
+    border-radius:10px;
+}
+.p3 {
+    background: -webkit-linear-gradient(red,yellow,cyan,magenta);
+border-radius:10px;
+}
+body {
+    background-image: url("C:\Users\Tawiah Godfred\Desktop\New folder (3)/gg.jpg");
+}
+#image1{
+width: 225px;
+border:groove;
+height: auto;
+position:right;
+}
+#image2a{
+    animation-name:joshua;
+    animation-duration:11s;
+    animation-iteration-count:infinite;
+   -webkit-animation-duration:11s;
+   -webkit-animation-name:joshua; 
+}
+.image2{
+    width:225px;
+    height: auto;
+    float:right;
+    position:right;
+    opacity:1;
+    border:outset;
+}
+body{
+    background-image:url("C:\Users\Tawiah Godfred\Desktop\New folder (3)/obj (4).jpeg"), cross-fade(green);
+    background-attachment:scroll;
+    background-color:rgb(248, 4, 183);
+}
+.image4{
+    width:600px;
+    float:right;
+}
+
+#images {
+    animation-name:joshua;
+    animation-duration:10s;
+    animation-iteration-count:infinite;
+   -webkit-animation-duration:10s;
+   -webkit-animation-name:joshua;   
+}
+.image5 {
+float:right;
+width:700px;
+}
+#image5b {
+    animation-name:joshua;
+    animation-duration:10s;
+    animation-iteration-count:infinite;
+   -webkit-animation-duration:15s;
+   -webkit-animation-name:joshua;
+}
+#h2 {
+    animation-name:joshua;
+    animation-duration:5s;
+    animation-iteration-count:infinite;
+   -webkit-animation-duration:7s;
+   -webkit-animation-name:joshua;  
+}
+#h11 {
+    color: chartreuse;
+    animation-name:joshua;
+    animation-duration:10s;
+    animation-iteration-count:infinite;
+   -webkit-animation-duration:15s;
+   -webkit-animation-name:joshua;
+}
